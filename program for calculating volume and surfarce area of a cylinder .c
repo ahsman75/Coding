@@ -1,3 +1,8 @@
+/*
+Name:Emmanuel Mulei Nzuki
+Regno:CT101/G/26526/25
+description: program to calculate surface_area area and volume of a cylinders
+*/
 #include <stdio.h>
 #define pi 3.14159
 int main()
