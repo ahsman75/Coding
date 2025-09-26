@@ -1,3 +1,8 @@
+/*
+Name:Emmanuel Mulei Nzuki
+Regno:CT101/G/26526/25
+description: program for qualification of a loan 
+*/
 // program for qualification of aloan
 
 #include<stdio.h>
