@@ -1,3 +1,8 @@
+/*
+Name:Emmanuel Mulei Nzuki
+Regno:CT101/G/26526/25
+description: program to calculate compound interest 
+*/
 #include <stdio.h>
 
 #include<math.h>
