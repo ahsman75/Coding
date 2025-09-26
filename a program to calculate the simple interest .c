@@ -1,3 +1,12 @@
+/*
+Name:Emmanuel Mulei Nzuki
+Regno:CT101/G/26526/25
+description: program to calculate simple interest 
+*/
+
+
+
+
 #include <stdio.h>
 
 
