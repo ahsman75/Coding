@@ -1,3 +1,8 @@
+/*
+Name:Emmanuel Mulei Nzuki
+Regno:CT101/G/26526/25
+description: program for units for this semester 
+*/
 #include<stdio.h>
 int main (){
 printf("units for this semester;\n");
